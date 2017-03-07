@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="InsertionSort.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Randomizer.cs" />
+    <Compile Include="SelectionSort.cs" />
+    <Compile Include="SortingAlgo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
